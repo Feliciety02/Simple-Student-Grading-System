@@ -62,7 +62,7 @@ print("=== SIMPLE STUDENT GRADING SYSTEM ===")
 # Input student info
 name = input("Enter student name: ")
 student_id = input("Enter student ID: ")
-git 
+
 # Create Student object
 student = Student(name, student_id)
 
